@@ -1,0 +1,6 @@
+c:\users\alott\documents\visual studio 2015\Projects\ShoppingHeart\ShoppingHeart\bin\ShoppingHeart.dll.config
+c:\users\alott\documents\visual studio 2015\Projects\ShoppingHeart\ShoppingHeart\bin\ShoppingHeart.dll
+c:\users\alott\documents\visual studio 2015\Projects\ShoppingHeart\ShoppingHeart\bin\ShoppingHeart.pdb
+c:\users\alott\documents\visual studio 2015\Projects\ShoppingHeart\ShoppingHeart\obj\Debug\ShoppingHeart.csprojResolveAssemblyReference.cache
+c:\users\alott\documents\visual studio 2015\Projects\ShoppingHeart\ShoppingHeart\obj\Debug\ShoppingHeart.dll
+c:\users\alott\documents\visual studio 2015\Projects\ShoppingHeart\ShoppingHeart\obj\Debug\ShoppingHeart.pdb
